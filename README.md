@@ -1,0 +1,2 @@
+# Cardz
+Simple card game
